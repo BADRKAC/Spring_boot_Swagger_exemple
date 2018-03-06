@@ -14,7 +14,7 @@ Does your API need some authorization?
 And even fun things like terms, contact information and license to use the API.
 You can write a Swagger spec for your API manually, or have it generated automatically from annotations in your source code. Check swagger.io/open-source-integrations for a list of tools that let you generate Swagger from code.
 
-So, I’ve got a Swagger spec for my API. Now what?
+# So, I’ve got a Swagger spec for my API. Now what?
 There are a few ways in which Swagger can help drive your API development further:
 
 Design-first users: use Swagger Codegen to generate a server stub for your API. The only thing left is to implement the server logic – and your API is ready to go live!
