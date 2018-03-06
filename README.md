@@ -1,5 +1,9 @@
-# Spring_boot_Swagger_exemple
-Integrate Swagger 2 documentation into a Spring Boot based REST web service
+
+# Test in browser
+```
+http://localhost:8083/swagger-ui.html
+
+```
 
 # What Is Swagger?
 Swagger allows you to describe the structure of your APIs so that machines can read them.
